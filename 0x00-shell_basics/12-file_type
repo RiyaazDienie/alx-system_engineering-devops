@@ -1,3 +1,2 @@
 #!/bin/bash
-if [[ -x iamafile ]]
-if [[ -d /tmp ]]
+if [[ -x iamafile ]] if [[ -d /tmp ]]
