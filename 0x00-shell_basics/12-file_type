@@ -1,3 +1,3 @@
-#!bin/bash
+#!/bin/bash
 if [[ -x iamafile ]]
 if [[ -d /tmp ]]
